@@ -1,0 +1,35 @@
+ h1 {
+     background-color:pink;
+     color:E6FFBFEA;
+ }
+ p {
+     background-color:D5FF946A;
+ }
+ h2 {
+     color:blue;
+     background-color:red;
+ }
+ h3 {
+     color:green;
+     background-color:red;
+ }
+ h4 {
+     color:blue;
+     background-color:red   
+ }
+ h5 {
+     background-color:pink;
+     color:E6FFBFEA;
+ }
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-image: url('IMAGE_URL_HERE');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      font-family: Arial, sans-serif;
+      color: white;
+    }
+
